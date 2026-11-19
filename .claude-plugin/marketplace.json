@@ -1,0 +1,5 @@
+{
+  "name": "dusk-theme",
+  "owner": { "name": "HoLeeChuck" },
+  "plugins": [{ "name": "dusk-theme", "source": "./" }]
+}
